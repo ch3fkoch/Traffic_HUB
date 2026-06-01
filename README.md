@@ -35,3 +35,7 @@ Da die Paketüberwachung auf Betriebssystemebene ansetzt, werden erhöhte Rechte
   .venv\Scripts\python.exe app.py
   ```
   *(Hinweis für Windows: Ggf. muss [Npcap](https://npcap.com/) installiert sein, damit Scapy Pakete aufzeichnen kann).*
+
+## Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
