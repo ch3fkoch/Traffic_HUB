@@ -1,0 +1,5 @@
+psutil>=5.9.0
+scapy>=2.5.0
+structlog>=24.1.0
+python-dotenv>=1.0.1
+rich>=13.7.0
